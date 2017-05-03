@@ -1,0 +1,2 @@
+
+##### nginx launcher/stopper icons
